@@ -1,0 +1,26 @@
+.panel-body {
+	padding: 10px 115px;
+}
+.btn-group {
+	display: block;
+	clear: left;
+}
+.panel-heading {
+	text-align: right;
+}
+.panel-heading h3 {
+	font-size: 30px;
+} 
+.comandos button{
+	margin-bottom: 10px; 
+}
+.tecla, .teclaOperacao {
+	width: 40px;
+	margin: 2px;
+}
+.teclaOperacao {
+	margin-left:5px;
+}
+#teclaOculta {
+	visibility: hidden;
+}
